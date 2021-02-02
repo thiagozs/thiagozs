@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **blockchain, golang, servers, crypto, investiments**
 
-- 📄 Know about my experiences [you find on linkedin profile](https://linkedin.com/in/thiagozs)
+- 📄 Know about my experiences, [you find on linkedin profile](https://linkedin.com/in/thiagozs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +18,9 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagozs&show_icons=true&locale=en" alt="thiagozs" />&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagozs&" alt="thiagozs" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagozs&show_icons=true&locale=en" alt="thiagozs" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagozs&" alt="thiagozs" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagozs&show_icons=true&locale=en&layout=compact" alt="thiagozs" /></p>
 
