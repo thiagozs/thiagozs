@@ -9,7 +9,7 @@
 [thiagozs/go-sqlcache](https://github.com/thiagozs/go-sqlcache) Simple implementation for key value on sql database<br/>
 [thiagozs/rust-hello](https://github.com/thiagozs/rust-hello) Studies with rust-lang<br/>
 [thiagozs/go-nats-workers](https://github.com/thiagozs/go-nats-workers) PoC implementation nats wrapper with cbor serializer<br/>
-[thiagozs/go-nats](https://github.com/thiagozs/go-nats) Wrapper for NATS<br/>
+[thiagozs/go-nats](https://github.com/thiagozs/go-nats) NATS Wrapper<br/>
 [thiagozs/go-test-gui](https://github.com/thiagozs/go-test-gui) Simple test gui interface with golang (opengl)<br/>
 [thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen) Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 [thiagozs/go-cache](https://github.com/thiagozs/go-cache) Simple cache system<br/>
