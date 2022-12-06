@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **24** commits in the last 16 weeks.
+🌡️ **25** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/githubpal](https://github.com/thiagozs/githubpal)** :gear: Routine Github task automation for my own stuff<br/>
 - **[thiagozs/go-fuzzysh](https://github.com/thiagozs/go-fuzzysh)** wrapper for algorithm fuzzy search<br/>
 - **[thiagozs/go-hertz-examples](https://github.com/thiagozs/go-hertz-examples)** Tests with hertz framework http<br/>
 - **[thiagozs/go-slack](https://github.com/thiagozs/go-slack)** Simple slack message notifier<br/>
@@ -34,7 +35,6 @@ technology, just to name a few.
 - **[thiagozs/rust-hello](https://github.com/thiagozs/rust-hello)** Studies with rust-lang<br/>
 - **[thiagozs/go-nats-workers](https://github.com/thiagozs/go-nats-workers)** PoC implementation nats wrapper with cbor serializer<br/>
 - **[thiagozs/go-test-gui](https://github.com/thiagozs/go-test-gui)** Simple test gui interface with golang (opengl)<br/>
-- **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
 
 
 ~ [https://thiagozs.com][2]
