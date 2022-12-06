@@ -6,7 +6,7 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **25** commits in the last 16 weeks.
+🌡️ **26** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
@@ -39,4 +39,4 @@ technology, just to name a few.
 
 ~ [https://thiagozs.com][2]
 
-[2]: https://{{URL}}
+[2]: https://https://thiagozs.com
