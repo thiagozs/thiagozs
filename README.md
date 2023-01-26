@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **48** commits in the last 16 weeks.
+🌡️ **50** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/thiagozs.com](https://github.com/thiagozs/thiagozs.com)** My personal look like linktree. Just contains only my ref of contacts<br/>
 - **[thiagozs/go-static-server](https://github.com/thiagozs/go-static-server)** Golang simple static server with Hertz framework - Octopus black<br/>
 - **[thiagozs/emoji-cheat-sheet](https://github.com/thiagozs/emoji-cheat-sheet)** A markdown version emoji cheat sheet<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
@@ -34,7 +35,6 @@ technology, just to name a few.
 - **[thiagozs/go-buntdb](https://github.com/thiagozs/go-buntdb)** PoC of BuntDB examples<br/>
 - **[thiagozs/go-utils](https://github.com/thiagozs/go-utils)** Simple tools for commons commands<br/>
 - **[thiagozs/go-sqlcache](https://github.com/thiagozs/go-sqlcache)** Simple implementation for key value on sql database<br/>
-- **[thiagozs/rust-hello](https://github.com/thiagozs/rust-hello)** Studies with rust-lang<br/>
 
 
 ~ [https://thiagozs.com][2]
