@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **60** commits in the last 16 weeks.
+🌡️ **64** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/thiagozs.com](https://github.com/thiagozs/thiagozs.com)** My personal look like linktree. Just contains only my ref of contacts<br/>
 - **[thiagozs/go-static-server](https://github.com/thiagozs/go-static-server)** Golang simple static server with Hertz framework - Octopus black<br/>
 - **[thiagozs/emoji-cheat-sheet](https://github.com/thiagozs/emoji-cheat-sheet)** A markdown version emoji cheat sheet<br/>
@@ -19,7 +20,6 @@ technology, just to name a few.
 - **[thiagozs/go-hertz-examples](https://github.com/thiagozs/go-hertz-examples)** Tests with hertz framework http<br/>
 - **[thiagozs/go-slack](https://github.com/thiagozs/go-slack)** Simple slack message notifier<br/>
 - **[thiagozs/docker-compose-traefik](https://github.com/thiagozs/docker-compose-traefik)** A basic example of a reverse proxy with Docker Compose and Traefik<br/>
-- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/semver-cli](https://github.com/thiagozs/semver-cli)** An easy to use CLI tool to manage your project versions and its upgrades according to the Semantic Versioning specification<br/>
 - **[thiagozs/go-interlang](https://github.com/thiagozs/go-interlang)** Examples of calls between Go and C/C++ (and how to call a Go shared object from Node/Ruby/Python/Java)<br/>
 - **[thiagozs/gist](https://github.com/thiagozs/gist)** Unofficial command line tool for file uploads to GitHub gist.<br/>
