@@ -6,15 +6,16 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **75** commits in the last 16 weeks.
+🌡️ **80** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
+- **[thiagozs/aws-tools](https://github.com/thiagozs/aws-tools)** :knife: AWS-tools a swift knife commands<br/>
 - **[thiagozs/go-slack](https://github.com/thiagozs/go-slack)** Simple slack message notifier<br/>
 - **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-databrokers](https://github.com/thiagozs/go-databrokers)** Data Broker with Golang<br/>
-- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/thiagozs.com](https://github.com/thiagozs/thiagozs.com)** My personal look like linktree. Just contains only my ref of contacts<br/>
 - **[thiagozs/go-static-server](https://github.com/thiagozs/go-static-server)** Golang simple static server with Hertz framework - Octopus black<br/>
 - **[thiagozs/emoji-cheat-sheet](https://github.com/thiagozs/emoji-cheat-sheet)** A markdown version emoji cheat sheet<br/>
@@ -34,7 +35,6 @@ technology, just to name a few.
 - **[thiagozs/k8s](https://github.com/thiagozs/k8s)** Recipes for kubernetes<br/>
 - **[thiagozs/go-mbsdk](https://github.com/thiagozs/go-mbsdk)** SDK for API MercadoBitcoin<br/>
 - **[thiagozs/go-buntdb](https://github.com/thiagozs/go-buntdb)** PoC of BuntDB examples<br/>
-- **[thiagozs/go-utils](https://github.com/thiagozs/go-utils)** Simple tools for commons commands<br/>
 
 
 ~ [https://thiagozs.com][2]
