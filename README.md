@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **52** commits in the last 16 weeks.
+🌡️ **31** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-libp2p-pubsub](https://github.com/thiagozs/go-libp2p-pubsub)** Study go-libp2p-pusub with proto3<br/>
 - **[thiagozs/go-mysql-audit](https://github.com/thiagozs/go-mysql-audit)** mysql-audit - A very simple mysql proxy.<br/>
 - **[thiagozs/server-api](https://github.com/thiagozs/server-api)** Mockup server API<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
@@ -34,7 +35,6 @@ technology, just to name a few.
 - **[thiagozs/go-nats](https://github.com/thiagozs/go-nats)** NATS Wrapper<br/>
 - **[thiagozs/go-rabbitmq](https://github.com/thiagozs/go-rabbitmq)** Rabbit MQ Wrapper<br/>
 - **[thiagozs/go-cleancodegen](https://github.com/thiagozs/go-cleancodegen)** Generate a scaffold project<br/>
-- **[thiagozs/k8s](https://github.com/thiagozs/k8s)** Recipes for kubernetes<br/>
 
 
 ~ [https://thiagozs.com][2]
