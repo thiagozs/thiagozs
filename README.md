@@ -10,7 +10,7 @@ technology, just to name a few.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/dotfiles](https://github.com/thiagozs/dotfiles)** <br/>
+- **[thiagozs/dotfiles](https://github.com/thiagozs/dotfiles)** This a dotfiles config and recover <br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/go-libp2p-pubsub](https://github.com/thiagozs/go-libp2p-pubsub)** Study go-libp2p-pusub with proto3<br/>
 - **[thiagozs/go-mysql-audit](https://github.com/thiagozs/go-mysql-audit)** mysql-audit - A very simple mysql proxy.<br/>
