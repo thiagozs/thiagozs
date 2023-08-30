@@ -6,18 +6,19 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **79** commits in the last 16 weeks.
+🌡️ **80** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
+- **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
+- **[thiagozs/test-mock](https://github.com/thiagozs/test-mock)** Example of test mock redis<br/>
+- **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-totp-test](https://github.com/thiagozs/go-totp-test)** Simple poc of TOPT write in golang<br/>
 - **[thiagozs/dotfiles](https://github.com/thiagozs/dotfiles)** This a dotfiles config and recover<br/>
 - **[thiagozs/go-libp2p-pubsub](https://github.com/thiagozs/go-libp2p-pubsub)** Study go-libp2p-pusub with proto3<br/>
 - **[thiagozs/go-mysql-audit](https://github.com/thiagozs/go-mysql-audit)** mysql-audit - A very simple mysql proxy.<br/>
 - **[thiagozs/server-api](https://github.com/thiagozs/server-api)** Mockup server API<br/>
-- **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/aws-tools](https://github.com/thiagozs/aws-tools)** :knife: AWS-tools a swift knife commands<br/>
 - **[thiagozs/go-slack](https://github.com/thiagozs/go-slack)** Simple slack message notifier<br/>
 - **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
@@ -34,7 +35,6 @@ technology, just to name a few.
 - **[thiagozs/gist](https://github.com/thiagozs/gist)** Unofficial command line tool for file uploads to GitHub gist.<br/>
 - **[thiagozs/todo-tree-cfg](https://github.com/thiagozs/todo-tree-cfg)** TODO Tree configVSCode<br/>
 - **[thiagozs/extensive](https://github.com/thiagozs/extensive)** CERTI Challenge<br/>
-- **[thiagozs/go-etcddump](https://github.com/thiagozs/go-etcddump)** Simple tools for backup Etcd keys<br/>
 
 
 ~ [https://thiagozs.com][2]
