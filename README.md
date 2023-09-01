@@ -10,6 +10,7 @@ technology, just to name a few.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-reload](https://github.com/thiagozs/go-reload)** Reload you application without leave the code<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
 - **[thiagozs/test-mock](https://github.com/thiagozs/test-mock)** Example of test mock redis<br/>
@@ -34,7 +35,6 @@ technology, just to name a few.
 - **[thiagozs/go-interlang](https://github.com/thiagozs/go-interlang)** Examples of calls between Go and C/C++ (and how to call a Go shared object from Node/Ruby/Python/Java)<br/>
 - **[thiagozs/gist](https://github.com/thiagozs/gist)** Unofficial command line tool for file uploads to GitHub gist.<br/>
 - **[thiagozs/todo-tree-cfg](https://github.com/thiagozs/todo-tree-cfg)** TODO Tree configVSCode<br/>
-- **[thiagozs/extensive](https://github.com/thiagozs/extensive)** CERTI Challenge<br/>
 
 
 ~ [https://thiagozs.com][2]
