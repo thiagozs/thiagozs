@@ -6,35 +6,21 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **70** commits in the last 16 weeks.
+🌡️ **100** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
 - **[thiagozs/go-reload](https://github.com/thiagozs/go-reload)** Reload you application without leave the code<br/>
+- **[thiagozs/go-nats-workers](https://github.com/thiagozs/go-nats-workers)** PoC implementation nats wrapper with cbor serializer<br/>
+- **[thiagozs/go-nats](https://github.com/thiagozs/go-nats)** NATS Wrapper<br/>
+- **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
 - **[thiagozs/test-mock](https://github.com/thiagozs/test-mock)** Example of test mock redis<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-totp-test](https://github.com/thiagozs/go-totp-test)** Simple poc of TOPT write in golang<br/>
 - **[thiagozs/dotfiles](https://github.com/thiagozs/dotfiles)** This a dotfiles config and recover<br/>
-- **[thiagozs/go-libp2p-pubsub](https://github.com/thiagozs/go-libp2p-pubsub)** Study go-libp2p-pusub with proto3<br/>
-- **[thiagozs/go-mysql-audit](https://github.com/thiagozs/go-mysql-audit)** mysql-audit - A very simple mysql proxy.<br/>
-- **[thiagozs/server-api](https://github.com/thiagozs/server-api)** Mockup server API<br/>
-- **[thiagozs/aws-tools](https://github.com/thiagozs/aws-tools)** :knife: AWS-tools a swift knife commands<br/>
-- **[thiagozs/go-slack](https://github.com/thiagozs/go-slack)** Simple slack message notifier<br/>
-- **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
-- **[thiagozs/go-databrokers](https://github.com/thiagozs/go-databrokers)** Data Broker with Golang<br/>
-- **[thiagozs/thiagozs.com](https://github.com/thiagozs/thiagozs.com)** My personal look like linktree. Just contains only my ref of contacts<br/>
-- **[thiagozs/go-static-server](https://github.com/thiagozs/go-static-server)** Golang simple static server with Hertz framework - Octopus black<br/>
-- **[thiagozs/emoji-cheat-sheet](https://github.com/thiagozs/emoji-cheat-sheet)** A markdown version emoji cheat sheet<br/>
-- **[thiagozs/githubpal](https://github.com/thiagozs/githubpal)** :gear: Routine Github task automation for my own stuff<br/>
-- **[thiagozs/go-fuzzysh](https://github.com/thiagozs/go-fuzzysh)** wrapper for algorithm fuzzy search<br/>
-- **[thiagozs/go-hertz-examples](https://github.com/thiagozs/go-hertz-examples)** Tests with hertz framework http<br/>
-- **[thiagozs/docker-compose-traefik](https://github.com/thiagozs/docker-compose-traefik)** A basic example of a reverse proxy with Docker Compose and Traefik<br/>
-- **[thiagozs/semver-cli](https://github.com/thiagozs/semver-cli)** An easy to use CLI tool to manage your project versions and its upgrades according to the Semantic Versioning specification<br/>
-- **[thiagozs/go-interlang](https://github.com/thiagozs/go-interlang)** Examples of calls between Go and C/C++ (and how to call a Go shared object from Node/Ruby/Python/Java)<br/>
-- **[thiagozs/gist](https://github.com/thiagozs/gist)** Unofficial command line tool for file uploads to GitHub gist.<br/>
-- **[thiagozs/todo-tree-cfg](https://github.com/thiagozs/todo-tree-cfg)** TODO Tree configVSCode<br/>
 
 
 ~ [https://thiagozs.com][2]
