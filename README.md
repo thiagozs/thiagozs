@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **40** commits in the last 16 weeks.
+🌡️ **63** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-rabbitmq](https://github.com/thiagozs/go-rabbitmq)** Rabbit MQ Wrapper<br/>
 - **[thiagozs/go-phonegen](https://github.com/thiagozs/go-phonegen)** Simple phone number generator - mobile and landline<br/>
 - **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
 - **[thiagozs/go-reload](https://github.com/thiagozs/go-reload)** Reload you application without leave the code<br/>
@@ -20,7 +21,6 @@ technology, just to name a few.
 - **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
 - **[thiagozs/test-mock](https://github.com/thiagozs/test-mock)** Example of test mock redis<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
-- **[thiagozs/go-totp-test](https://github.com/thiagozs/go-totp-test)** Simple poc of TOPT write in golang<br/>
 
 
 ~ [https://thiagozs.com][2]
