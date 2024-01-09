@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **86** commits in the last 16 weeks.
+🌡️ **94** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-httpe](https://github.com/thiagozs/go-httpe)** Package handler Error in Echo<br/>
 - **[thiagozs/go-qalogparser](https://github.com/thiagozs/go-qalogparser)** Quake Arena Logger Parser<br/>
 - **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
@@ -20,7 +21,6 @@ technology, just to name a few.
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-rabbitmq](https://github.com/thiagozs/go-rabbitmq)** Rabbit MQ Wrapper<br/>
 - **[thiagozs/go-reload](https://github.com/thiagozs/go-reload)** Reload you application without leave the code<br/>
-- **[thiagozs/go-nats-workers](https://github.com/thiagozs/go-nats-workers)** PoC implementation nats wrapper with cbor serializer<br/>
 
 
 ~ [https://thiagozs.com][2]
