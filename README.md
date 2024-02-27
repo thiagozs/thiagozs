@@ -6,10 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **68** commits in the last 16 weeks.
+🌡️ **70** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-logruswr](https://github.com/thiagozs/go-logruswr)** A simple wrapper of logrus logger<br/>
+- **[thiagozs/go-echowr](https://github.com/thiagozs/go-echowr)** <br/>
 - **[thiagozs/go-iso8583](https://github.com/thiagozs/go-iso8583)** ISO8583 parser and builder<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/go-httpe](https://github.com/thiagozs/go-httpe)** Package handler Error in Echo<br/>
@@ -19,8 +21,6 @@ technology, just to name a few.
 - **[thiagozs/holepunch-server](https://github.com/thiagozs/holepunch-server)** Publish private ports on another server over SSH reverse tunnel, entirely over HTTP so no firewall rules required!<br/>
 - **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
 - **[thiagozs/go-qalogparser](https://github.com/thiagozs/go-qalogparser)** Quake Arena Logger Parser<br/>
-- **[thiagozs/go-phonegen](https://github.com/thiagozs/go-phonegen)** Simple phone number generator - mobile and landline<br/>
-- **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
 
 
 ~ [https://thiagozs.com][2]
