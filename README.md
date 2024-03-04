@@ -11,7 +11,7 @@ technology, just to name a few.
 ### ⚡ Newest projects:
 
 - **[thiagozs/go-logruswr](https://github.com/thiagozs/go-logruswr)** A simple wrapper of logrus logger<br/>
-- **[thiagozs/go-echowr](https://github.com/thiagozs/go-echowr)** <br/>
+- **[thiagozs/go-echowr](https://github.com/thiagozs/go-echowr)** A simple wrapper for echo framework server<br/>
 - **[thiagozs/go-iso8583](https://github.com/thiagozs/go-iso8583)** ISO8583 parser and builder<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/go-httpe](https://github.com/thiagozs/go-httpe)** Package handler Error in Echo<br/>
