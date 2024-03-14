@@ -6,21 +6,21 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **70** commits in the last 16 weeks.
+🌡️ **65** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-logruswr](https://github.com/thiagozs/go-logruswr)** A simple wrapper of logrus logger<br/>
+- **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
+- **[thiagozs/go-criptus](https://github.com/thiagozs/go-criptus)** Symmetric encryption (AES/DES/3DES) and asymmetric encryption (RSA)<br/>
+- **[thiagozs/rinha-de-backend-2024-q1](https://github.com/thiagozs/rinha-de-backend-2024-q1)** Repositório da 2ª edição da Rinha de Backend<br/>
 - **[thiagozs/go-echowr](https://github.com/thiagozs/go-echowr)** A simple wrapper for echo framework server<br/>
 - **[thiagozs/go-iso8583](https://github.com/thiagozs/go-iso8583)** ISO8583 parser and builder<br/>
+- **[thiagozs/go-logruswr](https://github.com/thiagozs/go-logruswr)** A simple wrapper of logrus logger<br/>
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/go-httpe](https://github.com/thiagozs/go-httpe)** Package handler Error in Echo<br/>
 - **[thiagozs/shapass-cli](https://github.com/thiagozs/shapass-cli)** CLI version of Shapass: The password manager that does not store your passwords.<br/>
 - **[thiagozs/docker-composes](https://github.com/thiagozs/docker-composes)** Docker composes<br/>
 - **[thiagozs/dockerfiles](https://github.com/thiagozs/dockerfiles)** Various Dockerfiles I use on the desktop and on servers.<br/>
-- **[thiagozs/holepunch-server](https://github.com/thiagozs/holepunch-server)** Publish private ports on another server over SSH reverse tunnel, entirely over HTTP so no firewall rules required!<br/>
-- **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
-- **[thiagozs/go-qalogparser](https://github.com/thiagozs/go-qalogparser)** Quake Arena Logger Parser<br/>
 
 
 ~ [https://thiagozs.com][2]
