@@ -6,20 +6,21 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **57** commits in the last 16 weeks.
+🌡️ **22** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
-- **[thiagozs/docker-composes](https://github.com/thiagozs/docker-composes)** Docker composes<br/>
-- **[thiagozs/go-recipes](https://github.com/thiagozs/go-recipes)** 🦩 Tools for Go projects<br/>
-- **[thiagozs/go-criptus](https://github.com/thiagozs/go-criptus)** Symmetric encryption (AES/DES/3DES) and asymmetric encryption (RSA)<br/>
-- **[thiagozs/go-echowr](https://github.com/thiagozs/go-echowr)** A simple wrapper for echo framework server<br/>
-- **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
+- **[thiagozs/go-opentelemetry-poc](https://github.com/thiagozs/go-opentelemetry-poc)** <br/>
+- **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
+- **[thiagozs/go-filewatcher](https://github.com/thiagozs/go-filewatcher)** <br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
-- **[thiagozs/go-pds](https://github.com/thiagozs/go-pds)** PDS - Parser and Builder<br/>
+- **[thiagozs/centrifugo](https://github.com/thiagozs/centrifugo)** Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.<br/>
+- **[thiagozs/stid](https://github.com/thiagozs/stid)** Go library for generating short, unique, time-based string IDs.<br/>
+- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
+- **[thiagozs/dotfiles](https://github.com/thiagozs/dotfiles)** This a dotfiles config and recover<br/>
+- **[thiagozs/go-tokenizer](https://github.com/thiagozs/go-tokenizer)** API para tokenização, destokenização e geração de HMAC temporizado<br/>
 - **[thiagozs/go-iso8583](https://github.com/thiagozs/go-iso8583)** ISO8583 parser and builder<br/>
-- **[thiagozs/rinha-de-backend-2024-q1](https://github.com/thiagozs/rinha-de-backend-2024-q1)** Repositório da 2ª edição da Rinha de Backend<br/>
+- **[thiagozs/ecosystem-chat](https://github.com/thiagozs/ecosystem-chat)** Implantação Traefik + Portainer + Postgres + Minio + Redis + Chatwoot + N8N + Evolution API (White Label)<br/>
 
 
 ~ [https://thiagozs.com][2]
