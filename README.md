@@ -6,12 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **24** commits in the last 16 weeks.
+🌡️ **26** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-opentelemetry-poc](https://github.com/thiagozs/go-opentelemetry-poc)** PoC for implementation slog with opentelemetry<br/>
 - **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
+- **[thiagozs/go-opentelemetry-poc](https://github.com/thiagozs/go-opentelemetry-poc)** PoC for implementation slog with opentelemetry<br/>
 - **[thiagozs/go-filewatcher](https://github.com/thiagozs/go-filewatcher)** <br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/centrifugo](https://github.com/thiagozs/centrifugo)** Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.<br/>
