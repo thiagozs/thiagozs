@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **51** commits in the last 16 weeks.
+🌡️ **72** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-screentake](https://github.com/thiagozs/go-screentake)** Little app for take screenshot and selection<br/>
 - **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
 - **[thiagozs/go-filewatcher](https://github.com/thiagozs/go-filewatcher)** Simple monitoring folders and sync<br/>
 - **[thiagozs/go-opentelemetry-poc](https://github.com/thiagozs/go-opentelemetry-poc)** PoC for implementation slog with opentelemetry<br/>
@@ -19,7 +20,6 @@ technology, just to name a few.
 - **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 - **[thiagozs/dotfiles](https://github.com/thiagozs/dotfiles)** This a dotfiles config and recover<br/>
 - **[thiagozs/go-tokenizer](https://github.com/thiagozs/go-tokenizer)** API para tokenização, destokenização e geração de HMAC temporizado<br/>
-- **[thiagozs/go-iso8583](https://github.com/thiagozs/go-iso8583)** ISO8583 parser and builder<br/>
 
 
 ~ [https://thiagozs.com][2]
