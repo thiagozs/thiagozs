@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **93** commits in the last 16 weeks.
+🌡️ **95** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-exchange](https://github.com/thiagozs/go-exchange)** Api tools for checking currency exchange rates<br/>
 - **[thiagozs/go-bcb-cli](https://github.com/thiagozs/go-bcb-cli)** Tools for consulting currencies and central bank exchange rates<br/>
 - **[thiagozs/agents](https://github.com/thiagozs/agents)** A collection of production-ready subagents for Claude Code<br/>
@@ -19,7 +20,6 @@ technology, just to name a few.
 - **[thiagozs/mailer-go](https://github.com/thiagozs/mailer-go)** Wrapper of SDKs(SendGrid, MailGun, Gmail, AWS SES, SSL SMTP) Mailer<br/>
 - **[thiagozs/go-opentelemetry-poc](https://github.com/thiagozs/go-opentelemetry-poc)** PoC for implementation slog with opentelemetry<br/>
 - **[thiagozs/go-screentake](https://github.com/thiagozs/go-screentake)** Little app for take screenshot and selection<br/>
-- **[thiagozs/go-wslogger](https://github.com/thiagozs/go-wslogger)** Wrapper for slog golang<br/>
 
 
 ~ [https://thiagozs.com][2]
