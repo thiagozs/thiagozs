@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **99** commits in the last 16 weeks.
+🌡️ **101** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-gptcli](https://github.com/thiagozs/go-gptcli)** A simple cli for AI of openai.<br/>
 - **[thiagozs/go-raft](https://github.com/thiagozs/go-raft)** Raft consensus algorithm for distributed coordination and fault-tolerant state replication<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-exchange](https://github.com/thiagozs/go-exchange)** Api tools for checking currency exchange rates<br/>
@@ -17,7 +18,6 @@ technology, just to name a few.
 - **[thiagozs/agents](https://github.com/thiagozs/agents)** A collection of production-ready subagents for Claude Code<br/>
 - **[thiagozs/whatsapp](https://github.com/thiagozs/whatsapp)** Highly configurable Golang client for WhatsApp Cloud API<br/>
 - **[thiagozs/gwilio](https://github.com/thiagozs/gwilio)** Twilio alternative built using golang<br/>
-- **[thiagozs/go-gptcli](https://github.com/thiagozs/go-gptcli)** A simple cli for AI of openai.<br/>
 - **[thiagozs/mailer-go](https://github.com/thiagozs/mailer-go)** Wrapper of SDKs(SendGrid, MailGun, Gmail, AWS SES, SSL SMTP) Mailer<br/>
 - **[thiagozs/go-opentelemetry-poc](https://github.com/thiagozs/go-opentelemetry-poc)** PoC for implementation slog with opentelemetry<br/>
 
