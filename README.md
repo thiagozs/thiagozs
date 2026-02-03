@@ -6,13 +6,13 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **68** commits in the last 16 weeks.
+🌡️ **70** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
 - **[thiagozs/go-saga-engine](https://github.com/thiagozs/go-saga-engine)** Deterministic and testable SAGA orchestration engine written in Go<br/>
-- **[thiagozs/go-rterminal](https://github.com/thiagozs/go-rterminal)** go-terminal is a simple project for creating remote shell sessions via WebSocket.<br/>
 - **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
+- **[thiagozs/go-rterminal](https://github.com/thiagozs/go-rterminal)** go-terminal is a simple project for creating remote shell sessions via WebSocket.<br/>
 - **[thiagozs/go-eventbus](https://github.com/thiagozs/go-eventbus)** A lightweight and efficient library for orchestrating asynchronous events.<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
