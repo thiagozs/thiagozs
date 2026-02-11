@@ -6,12 +6,13 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **75** commits in the last 16 weeks.
+🌡️ **77** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-calc-charges-engine](https://github.com/thiagozs/go-calc-charges-engine)** Credit card charges engine for Brazil<br/>
+- **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
 - **[thiagozs/go-saga-engine](https://github.com/thiagozs/go-saga-engine)** Deterministic and testable SAGA orchestration engine written in Go<br/>
+- **[thiagozs/go-calc-charges-engine](https://github.com/thiagozs/go-calc-charges-engine)** Credit card charges engine for Brazil<br/>
 - **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
 - **[thiagozs/go-rterminal](https://github.com/thiagozs/go-rterminal)** go-terminal is a simple project for creating remote shell sessions via WebSocket.<br/>
 - **[thiagozs/go-eventbus](https://github.com/thiagozs/go-eventbus)** A lightweight and efficient library for orchestrating asynchronous events.<br/>
@@ -19,7 +20,6 @@ technology, just to name a few.
 - **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
 - **[thiagozs/dotfiles-v2](https://github.com/thiagozs/dotfiles-v2)** Bootstrap a zero machine to a develop style<br/>
 - **[thiagozs/go-awstools](https://github.com/thiagozs/go-awstools)** A little tools for manager files for s3(aws) and minio<br/>
-- **[thiagozs/githubpal](https://github.com/thiagozs/githubpal)** :gear: Routine Github task automation for my own stuff<br/>
 
 
 ~ [https://thiagozs.com][2]
