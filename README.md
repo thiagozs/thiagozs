@@ -6,10 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **73** commits in the last 16 weeks.
+🌡️ **66** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/stack-grafana-tools](https://github.com/thiagozs/stack-grafana-tools)** Stack grafana tools<br/>
+- **[thiagozs/go-filewatcher](https://github.com/thiagozs/go-filewatcher)** Simple monitoring folders and sync<br/>
 - **[thiagozs/go-saga-engine](https://github.com/thiagozs/go-saga-engine)** Deterministic and testable SAGA orchestration engine written in Go<br/>
 - **[thiagozs/go-calc-charges-engine](https://github.com/thiagozs/go-calc-charges-engine)** Credit card charges engine for Brazil<br/>
 - **[thiagozs/go-hiperspace](https://github.com/thiagozs/go-hiperspace)** Small Go project using Ebiten to simulate a warp/"starfield" effect.<br/>
@@ -18,8 +20,6 @@ technology, just to name a few.
 - **[thiagozs/dotfiles-v2](https://github.com/thiagozs/dotfiles-v2)** Bootstrap a zero machine to a develop style<br/>
 - **[thiagozs/go-httpc](https://github.com/thiagozs/go-httpc)** HTTP client with Options<br/>
 - **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
-- **[thiagozs/go-rterminal](https://github.com/thiagozs/go-rterminal)** go-terminal is a simple project for creating remote shell sessions via WebSocket.<br/>
-- **[thiagozs/go-eventbus](https://github.com/thiagozs/go-eventbus)** A lightweight and efficient library for orchestrating asynchronous events.<br/>
 
 
 ~ [https://thiagozs.com][2]
