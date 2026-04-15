@@ -6,20 +6,21 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **61** commits in the last 16 weeks.
+🌡️ **69** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-logbridge](https://github.com/thiagozs/go-logbridge)** Wrapper of logging for Go with adapters like zap, slog, zerolog e logrus<br/>
-- **[thiagozs/holepunch-client](https://github.com/thiagozs/holepunch-client)** Totally self-contained SSH reverse tunnel written in Go<br/>
-- **[thiagozs/go-hiperspace](https://github.com/thiagozs/go-hiperspace)** Small Go project using Ebiten to simulate a warp/"starfield" effect.<br/>
-- **[thiagozs/go-saga-engine](https://github.com/thiagozs/go-saga-engine)** Deterministic and testable SAGA orchestration engine written in Go<br/>
-- **[thiagozs/holepunch-server](https://github.com/thiagozs/holepunch-server)** Publish private ports on another server over SSH reverse tunnel, entirely over HTTP so no firewall rules required!<br/>
-- **[thiagozs/stack-grafana-tools](https://github.com/thiagozs/stack-grafana-tools)** Stack grafana tools<br/>
-- **[thiagozs/go-filewatcher](https://github.com/thiagozs/go-filewatcher)** Simple monitoring folders and sync<br/>
-- **[thiagozs/go-calc-charges-engine](https://github.com/thiagozs/go-calc-charges-engine)** Credit card charges engine for Brazil<br/>
+- **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
+- **[thiagozs/docker-composes](https://github.com/thiagozs/docker-composes)** Docker composes<br/>
+- **[thiagozs/docker](https://github.com/thiagozs/docker)** Docker files<br/>
+- **[thiagozs/claude-howto](https://github.com/thiagozs/claude-howto)** A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.<br/>
+- **[thiagozs/mcp-brasil](https://github.com/thiagozs/mcp-brasil)** MCP Server para 27 APIs públicas brasileiras<br/>
+- **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
+- **[thiagozs/go-rabbitmq](https://github.com/thiagozs/go-rabbitmq)** Rabbit MQ Wrapper<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
-- **[thiagozs/go-doom-fire](https://github.com/thiagozs/go-doom-fire)** The classic doom fire from game<br/>
+- **[thiagozs/go-download-organizer](https://github.com/thiagozs/go-download-organizer)** Organizer download files by folders<br/>
+- **[thiagozs/go-sftpsync](https://github.com/thiagozs/go-sftpsync)** A Golang sync SFTP files uploader and downloader<br/>
+- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 
 
 ~ [https://thiagozs.com][2]
