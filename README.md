@@ -6,7 +6,7 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **69** commits in the last 16 weeks.
+🌡️ **70** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
@@ -20,7 +20,6 @@ technology, just to name a few.
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-download-organizer](https://github.com/thiagozs/go-download-organizer)** Organizer download files by folders<br/>
 - **[thiagozs/go-sftpsync](https://github.com/thiagozs/go-sftpsync)** A Golang sync SFTP files uploader and downloader<br/>
-- **[thiagozs/twitter-dl](https://github.com/thiagozs/twitter-dl)** Download video from twitter by url share<br/>
 
 
 ~ [https://thiagozs.com][2]
