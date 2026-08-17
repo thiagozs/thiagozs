@@ -6,16 +6,21 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **63** commits in the last 16 weeks.
+🌡️ **26** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-lrucache](https://github.com/thiagozs/go-lrucache)** This project implements a thread-safe LRU (Least Recently Used) cache in Go.<br/>
-- **[thiagozs/go-estellarx-tunnel](https://github.com/thiagozs/go-estellarx-tunnel)** Expose local HTTP services to the internet through a WebSocket-based tunnel.<br/>
+- **[thiagozs/go-screentake](https://github.com/thiagozs/go-screentake)** Little app for take screenshot and selection<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
-- **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
-- **[thiagozs/docker-composes](https://github.com/thiagozs/docker-composes)** Docker composes<br/>
-- **[thiagozs/docker](https://github.com/thiagozs/docker)** Docker files<br/>
+- **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
+- **[thiagozs/go-cnpj](https://github.com/thiagozs/go-cnpj)** Go library to validate, normalize, format, and generate numeric and alphanumeric CNPJs.<br/>
+- **[thiagozs/go-openapi-gen](https://github.com/thiagozs/go-openapi-gen)** Auto generate a swagger docs<br/>
+- **[thiagozs/go-lrucache](https://github.com/thiagozs/go-lrucache)** This project implements a thread-safe LRU (Least Recently Used) cache in Go.<br/>
+- **[thiagozs/rinha-de-backend-2026](https://github.com/thiagozs/rinha-de-backend-2026)** Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial<br/>
+- **[thiagozs/mcp-brasil](https://github.com/thiagozs/mcp-brasil)** MCP Server para 27 APIs públicas brasileiras<br/>
+- **[thiagozs/go-estellarx-tunnel](https://github.com/thiagozs/go-estellarx-tunnel)** Expose local HTTP services to the internet through a WebSocket-based tunnel.<br/>
+- **[thiagozs/CL4R1T4S](https://github.com/thiagozs/CL4R1T4S)** LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐<br/>
+
 
 ~ [https://thiagozs.com][2]
 
