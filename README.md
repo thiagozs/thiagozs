@@ -6,10 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **30** commits in the last 16 weeks.
+🌡️ **34** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-template-api](https://github.com/thiagozs/go-template-api)** Introduce a small REST API template with Gin, PostgreSQL, JWT authentication and OpenTelemetry.<br/>
+- **[thiagozs/go-rterminal](https://github.com/thiagozs/go-rterminal)** go-terminal is a simple project for creating remote shell sessions via WebSocket.<br/>
 - **[thiagozs/mcp-brasil](https://github.com/thiagozs/mcp-brasil)** MCP Server para 27 APIs públicas brasileiras<br/>
 - **[thiagozs/go-databrokers](https://github.com/thiagozs/go-databrokers)** Data Broker with Golang<br/>
 - **[thiagozs/go-clickhouse-poc](https://github.com/thiagozs/go-clickhouse-poc)** Add ClickHouse Go PoC with Docker Compose<br/>
@@ -18,8 +20,6 @@ technology, just to name a few.
 - **[thiagozs/go-geolocation](https://github.com/thiagozs/go-geolocation)** Microservice of geolocation<br/>
 - **[thiagozs/go-cnpj](https://github.com/thiagozs/go-cnpj)** Go library to validate, normalize, format, and generate numeric and alphanumeric CNPJs.<br/>
 - **[thiagozs/go-openapi-gen](https://github.com/thiagozs/go-openapi-gen)** Auto generate a swagger docs<br/>
-- **[thiagozs/go-lrucache](https://github.com/thiagozs/go-lrucache)** This project implements a thread-safe LRU (Least Recently Used) cache in Go.<br/>
-- **[thiagozs/rinha-de-backend-2026](https://github.com/thiagozs/rinha-de-backend-2026)** Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial<br/>
 
 
 ~ [https://thiagozs.com][2]
