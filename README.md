@@ -6,12 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **40** commits in the last 16 weeks.
+🌡️ **44** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[thiagozs/go-download-organizer](https://github.com/thiagozs/go-download-organizer)** Organizer download files by folders<br/>
 - **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
+- **[thiagozs/go-download-organizer](https://github.com/thiagozs/go-download-organizer)** Organizer download files by folders<br/>
 - **[thiagozs/go-rabbitmq](https://github.com/thiagozs/go-rabbitmq)** Rabbit MQ Wrapper<br/>
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
