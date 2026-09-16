@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **70** commits in the last 16 weeks.
+🌡️ **74** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-openapi-gen](https://github.com/thiagozs/go-openapi-gen)** Auto generate a swagger docs<br/>
 - **[thiagozs/go-gptcli](https://github.com/thiagozs/go-gptcli)** A simple cli for AI of openai.<br/>
 - **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
 - **[thiagozs/go-download-organizer](https://github.com/thiagozs/go-download-organizer)** Organizer download files by folders<br/>
@@ -19,7 +20,6 @@ technology, just to name a few.
 - **[thiagozs/resty](https://github.com/thiagozs/resty)** Simple HTTP, REST, and SSE client library for Go<br/>
 - **[thiagozs/go-awstools](https://github.com/thiagozs/go-awstools)** A little tools for manager files for s3(aws) and minio<br/>
 - **[thiagozs/go-template-api](https://github.com/thiagozs/go-template-api)** Introduce a small REST API template with Gin, PostgreSQL, JWT authentication and OpenTelemetry.<br/>
-- **[thiagozs/go-rterminal](https://github.com/thiagozs/go-rterminal)** go-terminal is a simple project for creating remote shell sessions via WebSocket.<br/>
 
 
 ~ [https://thiagozs.com][2]
