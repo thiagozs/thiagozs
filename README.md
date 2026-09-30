@@ -6,10 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **96** commits in the last 16 weeks.
+🌡️ **101** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
+- **[thiagozs/go-saga-engine](https://github.com/thiagozs/go-saga-engine)** Deterministic and testable SAGA orchestration engine written in Go<br/>
+- **[thiagozs/api](https://github.com/thiagozs/api)** Brazilian zip codes api with embed database written in go<br/>
 - **[thiagozs/go-openapi-gen](https://github.com/thiagozs/go-openapi-gen)** Auto generate a swagger docs<br/>
 - **[thiagozs/go-gptcli](https://github.com/thiagozs/go-gptcli)** A simple cli for AI of openai.<br/>
 - **[thiagozs/go-xutils](https://github.com/thiagozs/go-xutils)** A utils for development<br/>
@@ -18,8 +20,6 @@ technology, just to name a few.
 - **[thiagozs/go-pixgen](https://github.com/thiagozs/go-pixgen)** Golang Pix implementatioin - copy and paste, qrcode gen<br/>
 - **[thiagozs/go-cache](https://github.com/thiagozs/go-cache)** Simple cache system<br/>
 - **[thiagozs/resty](https://github.com/thiagozs/resty)** Simple HTTP, REST, and SSE client library for Go<br/>
-- **[thiagozs/go-awstools](https://github.com/thiagozs/go-awstools)** A little tools for manager files for s3(aws) and minio<br/>
-- **[thiagozs/go-template-api](https://github.com/thiagozs/go-template-api)** Introduce a small REST API template with Gin, PostgreSQL, JWT authentication and OpenTelemetry.<br/>
 
 
 ~ [https://thiagozs.com][2]
